@@ -1,0 +1,21 @@
+Chapter
+
+├── 1. Introduction
+├── 2. Learning Objectives
+├── 3. Conceptual Foundation
+├── 4. Internal Architecture
+├── 5. Kernel Source Deep Dive
+├── 6. Data Structures
+├── 7. Execution Flow
+├── 8. Production Perspective
+├── 9. Kubernetes Connection
+├── 10. AI Infrastructure Connection
+├── 11. Security Considerations
+├── 12. Observability
+├── 13. Performance Engineering
+├── 14. Failure Modes
+├── 15. Hands-on Labs
+├── 16. Troubleshooting
+├── 17. Interview Questions
+├── 18. Chapter Summary
+└── 19. Further Reading
